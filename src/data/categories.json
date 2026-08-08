@@ -1,0 +1,22 @@
+[
+  {
+    "id": "precision-machining",
+    "title": "Precision Machining",
+    "description": "High-accuracy equipment for demanding industrial workflows."
+  },
+  {
+    "id": "fabrication",
+    "title": "Fabrication Systems",
+    "description": "Robust systems for custom metal and component fabrication."
+  },
+  {
+    "id": "automation",
+    "title": "Automation & Control",
+    "description": "Streamlined solutions for smart, controlled production environments."
+  },
+  {
+    "id": "assembly",
+    "title": "Assembly Solutions",
+    "description": "Reliable equipment designed for repeatable, high-quality output."
+  }
+]

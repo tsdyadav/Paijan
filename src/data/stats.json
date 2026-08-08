@@ -1,0 +1,26 @@
+[
+  {
+    "id": "years",
+    "label": "Years of experience",
+    "value": "20",
+    "suffix": "+"
+  },
+  {
+    "id": "clients",
+    "label": "Client partnerships",
+    "value": "150",
+    "suffix": "+"
+  },
+  {
+    "id": "projects",
+    "label": "Projects delivered",
+    "value": "300",
+    "suffix": "+"
+  },
+  {
+    "id": "support",
+    "label": "Support coverage",
+    "value": "24",
+    "suffix": "/7"
+  }
+]

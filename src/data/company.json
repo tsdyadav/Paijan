@@ -1,0 +1,30 @@
+{
+  "name": "Paijan India",
+  "shortName": "Paijan India",
+  "tagline": "Industrial equipment, engineered for dependable output.",
+  "description": "Paijan India Pvt. Ltd. supplies practical footwear and industrial machine solutions, backed by responsive guidance from inquiry to installation.",
+  "aboutTitle": "Manufacturing with precision and purpose",
+  "aboutDescription": "We combine engineering depth, modern fabrication practices, and a customer-first approach to build solutions that perform under pressure.",
+  "logo": {
+    "src": "/images/logo/logo.webp",
+    "fallbackSrc": "/images/logo/logo.ico",
+    "alt": "Paijan India Pvt. Ltd. logo"
+  },
+  "footerImage": {
+    "src": "/images/company/company-footer.webp",
+    "fallbackSrc": "/images/hero/paijainindia.jpeg",
+    "alt": "Paijan India industrial facility"
+  },
+  "aboutImage": {
+    "src": "/images/company/company-building.webp",
+    "alt": "Paijan India facility"
+  },
+  "address": "Khasra No. 19/11, West Jai Vihar, Kamruddin Nagar, Nangloi, New Delhi, Delhi 110041",
+  "phone": "+91 99534 87303",
+  "phoneHref": "tel:+919953487303",
+  "secondaryPhone": "+91 8860145678",
+  "secondaryPhoneHref": "tel:+918860145678",
+  "email": "paijanindia@gmail.com",
+  "emailHref": "mailto:paijanindia@gmail.com",
+  "workingHours": "Mon–Sat: 9:00 AM–6:00 PM"
+}

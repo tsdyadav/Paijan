@@ -1,0 +1,33 @@
+{
+  "page": {
+    "eyebrow": "Our Strap Collection",
+    "title": "Ladies' Footwear Straps",
+    "description": "Browse our ladies' footwear strap designs and contact our team for availability or custom requirements.",
+    "contactLabel": "Contact Us",
+    "seoTitle": "Ladies' Footwear Straps | Paijan India",
+    "seoDescription": "Browse ladies' footwear straps from Paijan India and contact our team for product inquiries."
+  },
+  "preview": {
+    "eyebrow": "Featured Straps",
+    "title": "Ladies' Footwear Straps",
+    "description": "Explore selected strap styles for ladies' footwear manufacturing."
+  },
+  "items": [
+    {
+      "id": "ladies-footwear-straps",
+      "title": "Ladies' Footwear Straps",
+      "image": {
+        "src": "/images/straps/ladies-footwear-straps.webp",
+        "alt": "Ladies' footwear straps"
+      }
+    },
+    {
+      "id": "footwear-white-silicone-strap",
+      "title": "Footwear White Silicone Strap",
+      "image": {
+        "src": "/images/straps/footwear-white-silicone-strap.webp",
+        "alt": "White silicone strap for footwear"
+      }
+    }
+  ]
+}

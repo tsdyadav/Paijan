@@ -1,0 +1,20 @@
+[
+  {
+    "id": "testimonial-1",
+    "name": "A. Sharma",
+    "role": "Operations Lead",
+    "quote": "The level of engineering quality and support was exceptional from day one."
+  },
+  {
+    "id": "testimonial-2",
+    "name": "R. Verma",
+    "role": "Plant Manager",
+    "quote": "Reliable equipment and a professional team made this a seamless project."
+  },
+  {
+    "id": "testimonial-3",
+    "name": "P. Mehta",
+    "role": "Procurement Head",
+    "quote": "The solution fit our production demands and helped improve our throughput."
+  }
+]

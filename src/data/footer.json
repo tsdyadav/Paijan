@@ -1,0 +1,31 @@
+{
+  "quickLinks": {
+    "heading": "Quick Links",
+    "items": [
+      { "label": "Home", "to": "/" },
+      { "label": "About Us", "to": "/about" },
+      { "label": "Machines", "to": "/machines" },
+      { "label": "Gallery", "to": "/gallery" },
+      { "label": "Contact Us", "to": "/contact" }
+    ]
+  },
+  "machines": {
+    "heading": "Our Machines",
+    "items": [
+      { "label": "Hydraulic Machines", "to": "/machines" },
+      { "label": "Cutting Machines", "to": "/machines" },
+      { "label": "Press Machines", "to": "/machines" },
+      { "label": "Finishing Machines", "to": "/machines" },
+      { "label": "Accessories", "to": "/machines" }
+    ]
+  },
+  "contact": { "heading": "Contact Us", "addressLabel": "Address", "phoneLabel": "Phone", "emailLabel": "Email", "hoursLabel": "Working Hours" },
+  "newsletter": { "heading": "Newsletter", "description": "Receive new machine updates, practical tips, and offers in your inbox.", "placeholder": "Your email address", "buttonLabel": "Subscribe", "successMessage": "Thanks — you’re on the list." },
+  "socialLinks": [
+    { "label": "Facebook", "url": "https://www.facebook.com/", "icon": "facebook" },
+    { "label": "Instagram", "url": "https://www.instagram.com/", "icon": "instagram" },
+    { "label": "YouTube", "url": "https://www.youtube.com/", "icon": "youtube" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/", "icon": "linkedin" }
+  ],
+  "legal": { "copyright": "© 2026 Paijan India Pvt. Ltd. All Rights Reserved.", "links": [ { "label": "Privacy Policy", "to": "/privacy-policy" }, { "label": "Terms & Conditions", "to": "/terms-and-conditions" } ] }
+}

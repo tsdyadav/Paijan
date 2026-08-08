@@ -1,0 +1,194 @@
+[
+  {
+    "id": "automatic-strapping-machine",
+    "name": "Automatic Strapping Machine",
+    "category": "Packaging & Strapping",
+    "shortDescription": "An automated strapping solution designed to secure cartons and packages with speed, consistency, and dependable packaging quality.",
+    "longDescription": "The Automatic Strapping Machine is used to apply tension, seal, and cut straps automatically for secure packaging of cartons, bundles, and industrial products. It improves packaging speed while reducing manual effort and maintaining consistent strap tension. Built for continuous operation, the machine offers dependable performance, smooth handling, and a strong return on productivity. It is ideal for manufacturing and distribution units that need fast, reliable packaging with minimal rework.",
+    "highlights": ["Fast strap application", "Consistent tension control", "High packaging efficiency"],
+    "features": ["Automatic strap feed", "Reliable sealing system", "Compact industrial design"],
+    "applications": ["Packaging Industry", "Carton Packaging", "Warehouse Operations", "Export Packaging", "Industrial Bundling"],
+    "specs": [
+      { "label": "Operation", "value": "Automatic" },
+      { "label": "Use", "value": "Carton & Bundle Strapping" },
+      { "label": "Output", "value": "High Speed" }
+    ],
+    "galleryImages": ["/images/machines/automatic-strapping-machine-250x250.jpg", "/images/machines/footwear-heat-chamber-500x500.jpg", "/images/machines/heat-chamber-500x500.jpg"]
+  },
+  {
+    "id": "footwear-heat-chamber",
+    "name": "Footwear Heat Chamber",
+    "category": "Footwear Machinery",
+    "shortDescription": "A purpose-built heat chamber designed to provide controlled thermal processing for footwear components and related materials.",
+    "longDescription": "The Footwear Heat Chamber is used to deliver controlled heat treatment for footwear components and materials during production. It supports uniform temperature distribution and helps manufacturers achieve consistent processing results across batches. The machine is built for stable operation in demanding production conditions and improves workflow accuracy during thermal processing. It is highly suitable for footwear manufacturing units that require reliable and repeatable heat treatment performance.",
+    "highlights": ["Uniform heat treatment", "Stable thermal control", "Reliable production support"],
+    "features": ["Controlled heating system", "Even temperature distribution", "Durable industrial build"],
+    "applications": ["Footwear Industry", "Shoe Manufacturing", "Leather Goods Processing", "Rubber Component Handling", "Industrial Thermal Operations"],
+    "specs": [
+      { "label": "Process", "value": "Heat Treatment" },
+      { "label": "Use", "value": "Footwear Components" },
+      { "label": "Result", "value": "Consistent Output" }
+    ],
+    "galleryImages": ["/images/machines/footwear-heat-chamber-500x500.jpg", "/images/machines/heat-chamber-500x500.jpg", "/images/machines/automatic-strapping-machine-250x250.jpg"]
+  },
+  {
+    "id": "heat-chamber",
+    "name": "Heat Chamber",
+    "category": "Thermal Processing",
+    "shortDescription": "A robust thermal processing unit built for controlled heating and repeated industrial use.",
+    "longDescription": "The Heat Chamber provides a controlled environment for repeated thermal processing in industrial production. It is designed for steady performance and efficient operation, making it suitable for plants that need consistent results during repetitive heating cycles. Its durable build supports long working hours with dependable output and fewer interruptions. This machine is a practical choice for operations where consistent heating quality is essential.",
+    "highlights": ["Controlled heating", "Repeatable process output", "Strong industrial durability"],
+    "features": ["Reliable heating chamber", "Stable temperature control", "Long operating life"],
+    "applications": ["Industrial Heating", "Component Processing", "Material Treatment", "Production Support", "Manufacturing Facilities"],
+    "specs": [
+      { "label": "Process", "value": "Thermal Processing" },
+      { "label": "Use", "value": "Industrial Heating" },
+      { "label": "Result", "value": "Stable Output" }
+    ],
+    "galleryImages": ["/images/machines/heat-chamber-500x500.jpg", "/images/machines/footwear-heat-chamber-500x500.jpg", "/images/machines/automatic-strapping-machine-250x250.jpg"]
+  },
+  {
+    "id": "patta-attaching-machine",
+    "name": "Patta Attaching Machine",
+    "category": "Footwear Machinery",
+    "shortDescription": "A specialized machine for attaching footwear patta with precision, alignment, and dependable repeatability.",
+    "longDescription": "The Patta Attaching Machine is engineered for the accurate attachment of footwear patta in high-volume production environments. It helps operators achieve consistent placement, strong bonding, and a uniform finish across each unit. This machine improves workflow efficiency while reducing manual inconsistencies. It is especially suitable for footwear plants that need dependable assembly quality at scale.",
+    "highlights": ["Accurate patta placement", "Consistent finish", "Reduced manual variation"],
+    "features": ["Precision attachment system", "Reliable assembly output", "Easy industrial operation"],
+    "applications": ["Footwear Industry", "Shoe Assembly", "Leather Footwear Production", "Manufacturing Units", "Industrial Adhesive Application"],
+    "specs": [
+      { "label": "Process", "value": "Patta Attachment" },
+      { "label": "Use", "value": "Footwear Assembly" },
+      { "label": "Result", "value": "Accurate Finish" }
+    ],
+    "galleryImages": ["/images/machines/patta-attaching-machine-500x500.jpg", "/images/machines/patta-attaching-machine-500x500 (1).jpg", "/images/machines/patta-attaching-machine-500x500 (2).jpg"]
+  },
+  {
+    "id": "slipper-strap-attaching-machine",
+    "name": "Slipper Strap Attaching Machine",
+    "category": "Footwear Machinery",
+    "shortDescription": "A precision machine designed for attaching slipper straps efficiently and consistently in footwear production lines.",
+    "longDescription": "The Slipper Strap Attaching Machine is developed to attach straps to slippers with accuracy and repeatable performance. It helps manufacturers maintain consistent alignment and finish while reducing manual adjustment. Built for industrial production environments, it offers dependable output, smoother workflow, and better finishing consistency. It is suitable for footwear manufacturers who need reliable assembly support with strong productivity gains.",
+    "highlights": ["Precise strap placement", "Consistent finishing", "Efficient assembly support"],
+    "features": ["Accurate attaching action", "Stable industrial operation", "Reduced manual adjustment"],
+    "applications": ["Slipper Manufacturing", "Footwear Assembly", "Household Footwear Production", "Export Footwear Units", "Industrial Shoe Production"],
+    "specs": [
+      { "label": "Process", "value": "Strap Attachment" },
+      { "label": "Use", "value": "Slipper Assembly" },
+      { "label": "Result", "value": "Accurate Finish" }
+    ],
+    "galleryImages": ["/images/machines/strap-collecting-machine-500x500.jpg", "/images/machines/slipper-strap-attaching-machine-500x500.jpg", "/images/machines/slipper-strap-making-machine-500x500.jpg"]
+  },
+  {
+    "id": "slipper-strap-making-machine",
+    "name": "Slipper Strap Making Machine",
+    "category": "Footwear Machinery",
+    "shortDescription": "A dependable machine for producing slipper straps with consistent form, strength, and finish.",
+    "longDescription": "The Slipper Strap Making Machine is designed to produce straps for slippers with consistent shape, strength, and finish. It supports continuous operation and helps manufacturers maintain quality across large production volumes. The machine is built to handle repetitive work efficiently while reducing manual effort and inconsistency. It is a practical solution for factories focused on stable output and dependable finishing quality.",
+    "highlights": ["Consistent strap formation", "Strong finishing quality", "Reliable repetitive output"],
+    "features": ["Stable strap production", "Efficient continuous operation", "Durable machine build"],
+    "applications": ["Footwear Industry", "Slipper Production", "Accessory Manufacturing", "Leather Goods Industry", "Industrial Production"],
+    "specs": [
+      { "label": "Process", "value": "Strap Production" },
+      { "label": "Use", "value": "Slipper Manufacturing" },
+      { "label": "Result", "value": "Uniform Straps" }
+    ],
+    "galleryImages": ["/images/machines/slipper-strap-making-machine-500x500.jpg", "/images/machines/slipper-strap-attaching-machine-500x500.jpg", "/images/machines/strap-collecting-machine-500x500.jpg"]
+  },
+  {
+    "id": "strap-collecting-machine",
+    "name": "Strap Collecting Machine",
+    "category": "Packaging & Strapping",
+    "shortDescription": "An efficient machine used to collect and organize straps after production for smooth packaging operations.",
+    "longDescription": "The Strap Collecting Machine is developed to collect and organize straps in an orderly manner during packaging and production processes. It helps improve workplace efficiency by reducing clutter and simplifying material handling. The machine contributes to cleaner operations and supports better workflow management within manufacturing units. It is suited to plants that need a smoother, more organized packaging environment.",
+    "highlights": ["Orderly strap collection", "Cleaner work area", "Improved material handling"],
+    "features": ["Reliable collection system", "Low maintenance design", "Supports packaging flow"],
+    "applications": ["Packaging Industry", "Material Handling", "Warehouse Operations", "Production Support", "Industrial Packaging Lines"],
+    "specs": [
+      { "label": "Process", "value": "Strap Collection" },
+      { "label": "Use", "value": "Packaging Operations" },
+      { "label": "Result", "value": "Neat Workflow" }
+    ],
+    "galleryImages": ["/images/machines/strap-collecting-machine-500x500.jpg", "/images/machines/automatic-strapping-machine-250x250.jpg", "/images/machines/plastic-strap-making-machine-500x500.jpg"]
+  },
+  {
+    "id": "pu-coating-machine",
+    "name": "PU Coating Machine",
+    "category": "Footwear Machinery",
+    "shortDescription": "A high-performance coating machine used to apply polyurethane finishing efficiently on footwear components.",
+    "longDescription": "The PU Coating Machine is designed to apply polyurethane coating with accuracy and consistency on footwear components. It supports smooth and controlled application, helping manufacturers achieve a high-quality surface finish and improved durability. Built for continuous operation, it offers stable performance with reduced process variation. It is ideal for footwear manufacturing units that need dependable finishing quality with efficient production flow.",
+    "highlights": ["Uniform coating finish", "Efficient polyurethane application", "Reliable production performance"],
+    "features": ["Controlled coating delivery", "Stable industrial operation", "Low process variation"],
+    "applications": ["Footwear Industry", "Shoe Manufacturing", "Leather Goods Finishing", "PU Component Production", "Industrial Surface Coating"],
+    "specs": [
+      { "label": "Process", "value": "PU Coating" },
+      { "label": "Use", "value": "Footwear Components" },
+      { "label": "Result", "value": "Smooth Finish" }
+    ],
+    "galleryImages": ["/images/machines/pu-coating-and-gluing-machine-500x500.jpg", "/images/machines/pu-coating-machine-500x500.jpg", "/images/machines/pu-gluing-machine-500x500.jpg"]
+  },
+  {
+    "id": "pu-gluing-machine",
+    "name": "PU Gluing Machine",
+    "category": "Footwear Machinery",
+    "shortDescription": "A reliable gluing machine for applying adhesive with precision in footwear and component assembly operations.",
+    "longDescription": "The PU Gluing Machine is engineered to apply adhesive accurately and consistently in footwear manufacturing and assembly processes. It supports efficient bonding of components while helping reduce manual effort and process inconsistency. The machine is built for steady, repeatable performance and is ideal for production lines that require reliable adhesion quality. Its strong construction and dependable operation make it suitable for continuous industrial use.",
+    "highlights": ["Precise adhesive application", "Strong bonding quality", "Reduced rework"],
+    "features": ["Controlled glue delivery", "Consistent assembly output", "Reliable industrial performance"],
+    "applications": ["Footwear Industry", "Shoe Assembly", "Adhesive Bonding", "Component Manufacturing", "Industrial Production"],
+    "specs": [
+      { "label": "Process", "value": "Gluing" },
+      { "label": "Use", "value": "Footwear Assembly" },
+      { "label": "Result", "value": "Strong Bond" }
+    ],
+    "galleryImages": ["/images/machines/pu-gluing-machine-500x500.jpg", "/images/machines/pu-coating-and-gluing-machine-500x500.jpg", "/images/machines/pu-coating-machine-500x500.jpg"]
+  },
+  {
+    "id": "plastic-strap-making-machine",
+    "name": "Plastic Strap Making Machine",
+    "category": "Packaging & Strapping",
+    "shortDescription": "A robust machine for producing plastic straps used in packaging and industrial bundling operations.",
+    "longDescription": "The Plastic Strap Making Machine is designed to manufacture plastic straps for secure packaging and bundling applications. It supports efficient production with consistent quality and dependable output for day-to-day industrial use. The machine helps manufacturers meet packaging requirements with strong, reliable straps suitable for transport and storage. It serves as a practical solution for companies looking to strengthen their packaging operations with reliable equipment.",
+    "highlights": ["Reliable strap production", "Consistent packaging output", "Strong industrial durability"],
+    "features": ["Stable manufacturing process", "High repeatability", "Efficient packaging support"],
+    "applications": ["Packaging Industry", "Industrial Bundling", "Logistics Support", "Warehousing", "Material Handling"],
+    "specs": [
+      { "label": "Process", "value": "Plastic Strapping" },
+      { "label": "Use", "value": "Packaging Operations" },
+      { "label": "Result", "value": "Secure Bundles" }
+    ],
+    "galleryImages": ["/images/machines/plastic-strap-making-machine-500x500.jpg", "/images/machines/automatic-strapping-machine-250x250.jpg", "/images/machines/strap-collecting-machine-500x500.jpg"]
+  },
+  {
+    "id": "steel-strap-cutter",
+    "name": "Steel Strap Cutter",
+    "category": "Metal Processing & Cutting",
+    "shortDescription": "A durable cutting machine designed for accurate steel strap cutting in industrial packaging and material handling operations.",
+    "longDescription": "The Steel Strap Cutter is made to cut steel straps accurately and safely for industrial packaging and bundling requirements. It helps operators complete cutting tasks quickly while maintaining consistent results across repeated operations. The machine is built for strong performance in demanding environments and supports efficient material handling workflows. It is a practical solution for companies that need reliable cutting performance with long-term durability.",
+    "highlights": ["Accurate steel cutting", "Safe industrial use", "Fast packaging support"],
+    "features": ["Robust cutting mechanism", "Stable operational performance", "Durable build quality"],
+    "applications": ["Packaging Industry", "Steel Strapping Operations", "Logistics", "Industrial Bundling", "Material Handling"],
+    "specs": [
+      { "label": "Process", "value": "Steel Cutting" },
+      { "label": "Use", "value": "Industrial Packaging" },
+      { "label": "Result", "value": "Precise Cut" }
+    ],
+    "galleryImages": ["/images/machines/steel-strap-cutter-500x500.jpg", "/images/machines/plastic-strap-making-machine-500x500.jpg", "/images/machines/strap-collecting-machine-500x500.jpg"]
+  },
+  {
+    "id": "chappal-making-machine",
+    "name": "Chappal Making Machine",
+    "category": "Footwear Machinery",
+    "shortDescription": "A specialized machine for efficient chappal manufacturing and consistent footwear production output.",
+    "longDescription": "The Chappal Making Machine is designed for efficient manufacture of chappal products with consistent output and dependable handling. It helps manufacturers streamline production while maintaining quality across repetitive processes. The machine is suitable for footwear businesses looking to improve speed, consistency, and production reliability. Its solid construction and smooth operation make it a practical industrial investment for modern assembly lines.",
+    "highlights": ["Efficient chappal production", "Consistent output", "Reliable manufacturing workflow"],
+    "features": ["Stable production support", "Repeatable output", "Industrial durability"],
+    "applications": ["Footwear Industry", "Chappal Production", "Assembly Lines", "Manufacturing Units", "Industrial Production"],
+    "specs": [
+      { "label": "Process", "value": "Footwear Production" },
+      { "label": "Use", "value": "Chappal Assembly" },
+      { "label": "Result", "value": "Consistent Output" }
+    ],
+    "galleryImages": ["/images/machines/chappal-making-machine-250x250.jpg", "/images/machines/slipper-strap-making-machine-500x500.jpg", "/images/machines/patta-attaching-machine-500x500.jpg"]
+  }
+]

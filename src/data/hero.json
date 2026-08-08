@@ -1,0 +1,15 @@
+{
+  "eyebrow": "Since 2012",
+  "title": "Precision manufacturing engineered for industrial growth",
+  "subtitle": "Paijan India delivers robust machine solutions, dependable service, and premium engineering for modern production facilities.",
+  "backgroundImage": {
+    "src": "/images/hero/hero-background.webp",
+    "alt": "Paijan India industrial workshop"
+  },
+  "machineImage": {
+    "src": "/images/hero/hero-machine.webp",
+    "alt": "Paijan India footwear manufacturing machine"
+  },
+  "primaryAction": { "label": "Explore Machines", "to": "/machines" },
+  "secondaryAction": { "label": "Get a Quote", "to": "/contact" }
+}
